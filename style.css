@@ -1,0 +1,30 @@
+*{
+    padding: 2%;
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+    box-sizing: ;   
+}    
+body{
+    font-weight: bolder;
+    font-size: larger;
+    color: white
+}
+ html    {
+     background: url(jc.jpg) no-repeat center center fixed;
+     background-size: cover;
+
+     }
+p2 {
+    font-style: italic;
+    position: absolute;
+    bottom: 0;
+    color: white;
+}
+img {
+    width: 280px;
+    height: 300px;
+    padding: 0px;
+    border:gold 5px solid;
+    border-radius: 280px;
+
+}
